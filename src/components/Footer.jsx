@@ -21,29 +21,20 @@ function Footer() {
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                chidhambarashm@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@gmail.com
+                  &nbsp; chidhambarashm@gmail.com
                 </a>
               </li>
 
-              <li>
-                <a
-                  style={{ fontSize: "14px" }}
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://xpeedstudio.com/"
-                >
-                  Design by XpeedStudio
-                </a>
-              </li>
+             
             </ul>
 
             <ul className="footer-content__2">
               <li>Company</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home">Banglore</a>
               </li>
               <li>
                 <a href="#home">Careers</a>
