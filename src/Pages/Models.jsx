@@ -31,7 +31,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$45</h4>
+                      <h4>Rs 3000/-</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -74,7 +74,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$37</h4>
+                      <h4>Rs 2500/-</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -117,7 +117,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$30</h4>
+                      <h4>Rs 2130</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -160,7 +160,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$35</h4>
+                      <h4>Rs 4300/-</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -203,7 +203,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$50</h4>
+                      <h4>Rs 3050/-</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -246,7 +246,7 @@ function Models() {
                       </span>
                     </div>
                     <div className="models-div__box__descr__name-price__price">
-                      <h4>$25</h4>
+                      <h4>Rs 4325/-</h4>
                       <p>per day</p>
                     </div>
                   </div>
@@ -281,7 +281,7 @@ function Models() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>(123) 456-7869</h3>
+                <h3>9600960002</h3>
               </span>
             </div>
           </div>
