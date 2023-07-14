@@ -34,9 +34,7 @@ function Navbar() {
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} to="/testimonials">
-                Testimonials
-              </Link>
+             
             </li>
           </ul>
         </div>
@@ -69,9 +67,7 @@ function Navbar() {
             </li>
             <li>
               {" "}
-              <Link className="testi-link" to="/testimonials">
-                Testimonials
-              </Link>
+             
             </li>
           </ul>
           <div className="navbar__buttons">
